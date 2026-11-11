@@ -1,0 +1,14 @@
+{
+  "topics": [
+    {
+      "name": "user-events",
+      "partitions": 3,
+      "replicationFactor": 1
+    },
+    {
+      "name": "product-updates",
+      "partitions": 3,
+      "replicationFactor": 1
+    }
+  ]
+}
